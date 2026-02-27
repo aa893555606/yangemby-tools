@@ -2,8 +2,6 @@
 
 这是一个专门为 Emby 管理员设计的用户有效期管理工具。
 
----
-
 ## 🚀 极简部署 (Docker Compose)
 
 复制以下内容到你的 `docker-compose.yml`，修改变量后运行即可：
@@ -26,18 +24,15 @@ services:
       - EMBY_API_KEY=你的API密钥           # 填入你的 API Key
       - ADMIN_USERNAME=admin              # 网页登录账号
       - ADMIN_PASSWORD=admin              # 网页登录密码
--------------------------------------------------------------------------------
-👨‍💻 作者
-Power by 靓仔东
-Docker 镜像地址: liangzaidong/yangemby-tools:latest
-感谢安卓电视AppleTv群
+
+👨‍💻 作者: Power by 靓仔东
+
+🐳 Docker 镜像: liangzaidong/yangemby-tools:latest
+
+💖 特别感谢: 安卓电视AppleTv群
 
 
-
-
-
-
-----------------------------------------------------------------------------
+---
 
 ## 🖼️ 部署效果截图
 
