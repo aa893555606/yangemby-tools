@@ -1,0 +1,16 @@
+services:
+  yangemby-tools:
+    image: liangzaidong/yangemby-tools:latest
+    container_name: yangemby-tools
+    restart: always
+    network_mode: bridge
+    ports:
+      - "8055:8501"  # 外部访问端口，可自行修改
+    volumes:
+      - "/volume1/docker/yangemby/data:/app/data"  # 挂载路径，确保数据不丢失
+    environment:
+      - TZ=Asia/Shanghai
+      - EMBY_URL=http://你的设备ip地址:8096        # 必填：你的 Emby 服务器地址
+      - EMBY_API_KEY=你的API密钥                  # 必填：你的 Emby API Key
+      - ADMIN_USERNAME=admin                     # 选填：网页管理后台账号
+      - ADMIN_PASSWORD=admin                     # 选填：网页管理后台密码
