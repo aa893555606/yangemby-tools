@@ -32,8 +32,8 @@ Power by 靓仔东
 Docker 镜像地址: liangzaidong/yangemby-tools:latest
 感谢安卓电视AppleTv群
 
-![界面截图1](ScreenShot_2026-02-27_233905_148.png)
-![界面截图2](ScreenShot_2026-02-27_233852_001.png)
-![界面截图3](ScreenShot_2026-02-27_233737_481.png)
 
+<img width="2220" height="1125" alt="ScreenShot_2026-02-27_233852_001" src="https://github.com/user-attachments/assets/9bc6eab0-d2a1-4515-9a2d-97b45fc5c70f" />
+<img width="2232" height="1115" alt="ScreenShot_2026-02-27_233905_148" src="https://github.com/user-attachments/assets/09afafd4-c3f1-4098-9d72-7aac39104e0c" />
+<img width="2235" height="1155" alt="ScreenShot_2026-02-27_233737_481" src="https://github.com/user-attachments/assets/3a1ec303-1f15-4b2c-b469-34eea73135d7" />
 
