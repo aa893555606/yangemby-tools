@@ -42,9 +42,9 @@ Docker 镜像地址: liangzaidong/yangemby-tools:latest
 
 ## 🖼️ 部署效果截图
 
-![ScreenShot1](https://github.com/user-attachments/assets/dbd95bcf-b13b-4257-8034-fb37be262be9)
+## 🖼️ 部署效果截图
 
-![ScreenShot2](https://github.com/user-attachments/assets/64912625-c467-4a41-9665-f5f1809036b4)
-
-![ScreenShot3](https://github.com/user-attachments/assets/8fcd8d96-281c-46d6-8957-2f3b3eae3ab8)
+![1](1.png)
+![2](2.png)
+![3](3.png)
 
