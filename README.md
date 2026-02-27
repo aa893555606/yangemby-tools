@@ -33,7 +33,7 @@ Docker 镜像地址: liangzaidong/yangemby-tools:latest
 感谢安卓电视AppleTv群
 
 
-<img width="2220" height="1125" alt="ScreenShot_2026-02-27_233852_001" src="https://github.com/user-attachments/assets/9bc6eab0-d2a1-4515-9a2d-97b45fc5c70f" />
-<img width="2232" height="1115" alt="ScreenShot_2026-02-27_233905_148" src="https://github.com/user-attachments/assets/09afafd4-c3f1-4098-9d72-7aac39104e0c" />
-<img width="2235" height="1155" alt="ScreenShot_2026-02-27_233737_481" src="https://github.com/user-attachments/assets/3a1ec303-1f15-4b2c-b469-34eea73135d7" />
 
+![ScreenShot_2026-02-27_233852_001](https://github.com/user-attachments/assets/326f12a3-1eb3-4f1f-b4d5-27324838c8e5)
+![ScreenShot_2026-02-27_233737_481](https://github.com/user-attachments/assets/ca0a6252-6c9c-47cc-925a-a2c180f80d5e)
+![ScreenShot_2026-02-27_233905_148](https://github.com/user-attachments/assets/df39aa61-329c-4a9b-b497-fd71bad1f369)
