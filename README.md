@@ -50,12 +50,7 @@ Docker 镜像地址: liangzaidong/yangemby-tools:latest
 🖼️ 部署效果截图
 
 
-
-### 🖼️ 部署效果截图
-
-![截图1](https://github.com/user-attachments/assets/8b2ea67e-1d62-4c02-b7cf-92e010977b55)
-
-![截图2](https://github.com/user-attachments/assets/a7ab351d-0ce9-493c-9951-4b4718830ae2)
-
-![截图3](https://github.com/user-attachments/assets/5bd87355-33a8-48d7-81d5-4f4e5e6ae443)
+![ScreenShot_2026-02-27_233852_001](https://github.com/user-attachments/assets/dbd95bcf-b13b-4257-8034-fb37be262be9)
+![ScreenShot_2026-02-27_233737_481](https://github.com/user-attachments/assets/64912625-c467-4a41-9665-f5f1809036b4)
+![ScreenShot_2026-02-27_233905_148](https://github.com/user-attachments/assets/8fcd8d96-281c-46d6-8957-2f3b3eae3ab8)
 
