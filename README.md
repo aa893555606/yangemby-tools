@@ -32,9 +32,13 @@ services:
 💖 特别感谢: 安卓电视AppleTv群
 ------------------------------------------------------------------------------------------
 ## 🖼️ 部署效果截图
-<img width="1392" height="713" alt="03" src="https://github.com/user-attachments/assets/93c71e5b-0759-47bd-a4ad-91f15d406bbe" />
-<img width="1416" height="723" alt="02" src="https://github.com/user-attachments/assets/22fcf824-a2c9-40d1-8ad4-6bd6f2f48beb" />
-<img width="1406" height="718" alt="01" src="https://github.com/user-attachments/assets/c927859e-e1e8-447a-9016-8deabf8e9672" />
+## 🖼️ 部署效果截图
+
+![预览03](images/03.png)
+
+![预览02](images/02.png)
+
+![预览01](images/01.png)
 
 
 
