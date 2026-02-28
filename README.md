@@ -36,8 +36,7 @@ services:
 
 ## 🖼️ 部署效果截图
 
-![截图1](ScreenShot_2026-02-27_233737_481.jpg)
 
-![截图2](ScreenShot_2026-02-27_233852_001.jpg)
-
-![截图3](ScreenShot_2026-02-27_233905_148.jpg)
+<img width="1392" height="713" alt="03" src="https://github.com/user-attachments/assets/104a3bf9-8b0b-48a1-8821-cd7aa8a2b10c" />
+<img width="1416" height="723" alt="02" src="https://github.com/user-attachments/assets/1fbf914d-571b-42ef-8a3b-f9c5f820ffc9" />
+<img width="1406" height="718" alt="01" src="https://github.com/user-attachments/assets/0cec8e0a-d454-4c5b-972c-5a6daa8273a7" />
