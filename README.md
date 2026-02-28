@@ -36,14 +36,10 @@ services:
 
 ## 使用截图
 
-### 图1
-![01](images/01.png)
+<img width="1406" height="718" alt="01" src="https://github.com/user-attachments/assets/7e7f2073-e6bf-4ff9-b5d1-437cfc78ca05" />
+<img width="1392" height="713" alt="03" src="https://github.com/user-attachments/assets/98a15619-b35d-4c7c-90d6-87a3a015b145" />
+<img width="1416" height="723" alt="02" src="https://github.com/user-attachments/assets/fa1fee87-9ea6-4340-b22d-efc596c6f941" />
 
-### 图2
-![02](images/02.png)
-
-### 图3
-![03](images/03.png)
 
 
 
