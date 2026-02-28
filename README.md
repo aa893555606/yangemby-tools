@@ -37,6 +37,10 @@ services:
 ## 🖼️ 部署效果截图
 
 
-<img width="1392" height="713" alt="03" src="https://github.com/user-attachments/assets/104a3bf9-8b0b-48a1-8821-cd7aa8a2b10c" />
-<img width="1416" height="723" alt="02" src="https://github.com/user-attachments/assets/1fbf914d-571b-42ef-8a3b-f9c5f820ffc9" />
-<img width="1406" height="718" alt="01" src="https://github.com/user-attachments/assets/0cec8e0a-d454-4c5b-972c-5a6daa8273a7" />
+## 📷 部署效果截图
+
+![预览03](https://github.com/user-attachments/assets/104a3bf9-8b0b-48a1-8821-cd7aa8a2b10c)
+
+![预览02](https://github.com/user-attachments/assets/1fbf914d-571b-42ef-8a3b-f9c5f820ffc9)
+
+![预览01](https://github.com/user-attachments/assets/0cec8e0a-d454-4c5b-972c-5a6daa8273a7)
