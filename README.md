@@ -24,23 +24,19 @@ services:
       - EMBY_API_KEY=你的API密钥           # 填入你的 API Key
       - ADMIN_USERNAME=admin              # 网页登录账号
       - ADMIN_PASSWORD=admin              # 网页登录密码
-
-👨‍💻 作者: Power by 靓仔东
+-----------------------------------------------------------------------------------------
+👨‍💻 作者:靓仔东
 
 🐳 Docker 镜像: liangzaidong/yangemby-tools:latest
 
 💖 特别感谢: 安卓电视AppleTv群
-
-
----
-
+------------------------------------------------------------------------------------------
 ## 🖼️ 部署效果截图
+<img width="1392" height="713" alt="03" src="https://github.com/user-attachments/assets/93c71e5b-0759-47bd-a4ad-91f15d406bbe" />
+<img width="1416" height="723" alt="02" src="https://github.com/user-attachments/assets/22fcf824-a2c9-40d1-8ad4-6bd6f2f48beb" />
+<img width="1406" height="718" alt="01" src="https://github.com/user-attachments/assets/c927859e-e1e8-447a-9016-8deabf8e9672" />
 
 
-## 📷 部署效果截图
 
-![预览03](https://github.com/user-attachments/assets/104a3bf9-8b0b-48a1-8821-cd7aa8a2b10c)
 
-![预览02](https://github.com/user-attachments/assets/1fbf914d-571b-42ef-8a3b-f9c5f820ffc9)
 
-![预览01](https://github.com/user-attachments/assets/0cec8e0a-d454-4c5b-972c-5a6daa8273a7)
