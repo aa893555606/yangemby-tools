@@ -1,4 +1,4 @@
-# 🛠️ yangemby-tools (东子版)
+# 🛠️ yangemby-tools
 
 这是一个专门为 Emby 管理员设计的用户有效期管理工具。
 
