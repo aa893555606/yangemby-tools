@@ -36,9 +36,9 @@ services:
 
 ## 使用截图
 
-![截图01](https://raw.githubusercontent.com/aa893555606/yangemby-tools/main/images/01.png)
-![截图02](https://raw.githubusercontent.com/aa893555606/yangemby-tools/main/images/02.png)
-![截图03](https://raw.githubusercontent.com/aa893555606/yangemby-tools/main/images/03.png)
+![截图01](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@main/images/01.png)
+![截图02](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@main/images/02.png)
+![截图03](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@main/images/03.png)
 
 
 
