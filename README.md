@@ -1,6 +1,5 @@
 # 🛠️ yangemby-tools
 
-<!-- force render 20250908 -->
 这是一个专门为 Emby 管理员设计的用户有效期管理工具。
 
 ## 🚀 极简部署 (Docker Compose)
@@ -33,6 +32,7 @@ services:
 💖 特别感谢: 安卓电视AppleTv群
 ------------------------------------------------------------------------------------------
  🖼️ 部署效果截图
+<!-- force render 20250908 -->
 ![截图01](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@v1.0.0/images/01.png)
 ![截图02](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@v1.0.0/images/02.png)
 ![截图03](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@v1.0.0/images/03.png)
