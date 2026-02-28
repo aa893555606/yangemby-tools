@@ -32,9 +32,9 @@ services:
 💖 特别感谢: 安卓电视AppleTv群
 ------------------------------------------------------------------------------------------
  🖼️ 部署效果截图
-![截图01](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@main/images/01.png)
-![截图02](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@main/images/02.png)
-![截图03](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@main/images/03.png)
+![截图01](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@v1.0.0/images/01.png)
+![截图02](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@v1.0.0/images/02.png)
+![截图03](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@v1.0.0/images/03.png)
 
 
 
