@@ -1,4 +1,4 @@
-# 🛠️ yangemby-tools
+<img width="2208" height="1032" alt="01" src="https://github.com/user-attachments/assets/ac025805-f6f0-4de8-9b5b-9e67a02f4aeb" /># 🛠️ yangemby-tools
 
 这是一个专门为 Emby 管理员设计的用户有效期管理工具。
 
@@ -33,9 +33,12 @@ services:
 ------------------------------------------------------------------------------------------
  🖼️ 部署效果截图
 <!-- force render 20250908 -->
-![截图01](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@v1.0.0/images/01.png)
-![截图02](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@v1.0.0/images/02.png)
-![截图03](https://cdn.jsdelivr.net/gh/aa893555606/yangemby-tools@v1.0.0/images/03.png)
+<img width="2232" height="1011" alt="02" src="https://github.com/user-attachments/assets/fa462147-72a9-4579-baf3-43960d317023" />
+<img width="2208" height="1032" alt="01" src="https://github.com/user-attachments/assets/547581ff-a5a6-4529-973f-bfde7644d1e9" />
+<img width="2235" height="1155" alt="03" src="https://github.com/user-attachments/assets/11fb2ce1-92f2-4e90-9829-a324ffe0dd13" />
+
+
+新增：支持定时封禁，bark通知
 
 
 
