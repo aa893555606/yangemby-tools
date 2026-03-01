@@ -28,3 +28,16 @@ services:
       - EMBY_API_KEY=你的API密钥           # 填入你的 API Key
       - ADMIN_USERNAME=admin              # 网页登录账号
       - ADMIN_PASSWORD=admin              # 网页登录密码
+
+
+
+
+
+
+
+
+
+
+
+
+
